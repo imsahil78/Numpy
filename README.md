@@ -68,6 +68,7 @@ Practice notebook containing hands-on NumPy exercises.
 
 ### Exercises Included
 - Student marks analysis
+- Student age analysis
 - Average calculations
 - Conditional filtering
 - Updating matrix values
