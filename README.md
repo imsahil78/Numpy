@@ -1,94 +1,93 @@
-# NumPy Learning Project
+# 🚀 NumPy Learning Project
 
-This repository contains beginner-friendly Jupyter Notebook examples for learning and practicing NumPy concepts in Python.
+Welcome to the **NumPy Learning Project** 📘  
+This repository contains beginner-friendly Jupyter notebooks created while learning and practicing concepts from Python NumPy.
 
-## 📂 Files Included
+The project focuses on building a strong foundation in:
 
-### 1. `numpy_basic.ipynb`
-
-Covers the basic concepts of NumPy such as:
-
-* Importing NumPy
-* Creating arrays
-* Array dimensions
-* Data types
-* Array operations
-* Mathematical functions
-
-### 2. `numpy_array_indexing.ipynb`
-
-Focuses on array indexing and slicing:
-
-* Accessing array elements
-* Slicing arrays
-* Multi-dimensional indexing
-* Modifying array values
-
-### 3. `array_op.ipynb`
-
-Contains examples of array operations:
-
-* Arithmetic operations
-* Matrix operations
-* Reshaping arrays
-* Aggregate functions
-* Broadcasting
+- NumPy basics
+- Array operations
+- Indexing and slicing
+- Matrix manipulation
+- Conditional filtering
+- Practical exercises
 
 ---
 
-## 🚀 Technologies Used
+# 📂 Project Structure
 
-* Python
-* NumPy
-* Jupyter Notebook
+## 1️⃣ `numpy_basic.ipynb`
+
+Covers the core fundamentals of NumPy.
+
+### Topics Included
+- Importing NumPy
+- Creating arrays
+- Array dimensions
+- Data types (`dtype`)
+- Mathematical operations
+- Array reshaping
+- Aggregate functions
+- Broadcasting basics
 
 ---
 
-## ▶️ How to Run
+## 2️⃣ `numpy_array_indexing.ipynb`
 
-1. Install Python from the official website.
-2. Install Jupyter Notebook:
+Focused on indexing, slicing, and accessing data.
+
+### Topics Included
+- Single indexing
+- Multi-dimensional indexing
+- Array slicing
+- Boolean indexing
+- Fancy indexing
+- Conditional selection
+- Updating array values
+
+---
+
+## 3️⃣ `array_op.ipynb`
+
+Contains various array operations and manipulations.
+
+### Topics Included
+- Arithmetic operations
+- Matrix operations
+- Array comparison
+- Sorting arrays
+- Searching elements
+- Statistical operations
+- Iterating through arrays
+
+---
+
+## 4️⃣ `exersises.ipynb`
+
+Practice notebook containing hands-on NumPy exercises.
+
+### Exercises Included
+- Student marks analysis
+- Average calculations
+- Conditional filtering
+- Updating matrix values
+- Sudoku validation logic
+- Boolean masking
+- Array-based problem solving
+
+---
+
+# 🛠️ Technologies Used
+
+- Python 3
+- Jupyter Notebook
+- NumPy
+
+---
+
+# ▶️ How to Run
+
+## Clone Repository
 
 ```bash
-pip install notebook
-```
-
-3. Install NumPy:
-
-```bash
-pip install numpy
-```
-
-4. Start Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-5. Open any `.ipynb` notebook file and run the cells.
-
----
-
-## 🎯 Purpose of This Project
-
-This project is made for beginners who want to:
-
-* Learn NumPy fundamentals
-* Practice array manipulation
-* Understand indexing and operations
-* Build a strong base for Data Science and Machine Learning
-
----
-
-## 📌 Author
-
-Ritesh Vanjare
-
----
-
-## ⭐ Future Improvements
-
-* Add advanced NumPy concepts
-* Include practice questions
-* Add visualization using Matplotlib
-* Add mini projects using NumPy
+git clone https://github.com/imsahil78/Numpy.git
